@@ -40,7 +40,11 @@ Donde se fuerza que le primer linea debe de ser una declaracion de variable
 
 Un ejemplo de nuestra gramática sería
 
-bin
+bin nombreVariable = 1001 ;
+0110 + nombreVariable ;
+
+Nota: los punto y coma deben estar separados
+
 ##  Manejo de errores
 
 Hay dos tipos principales de errores, los tokens desconocidos y los errores cuando no se sigue la gramática.
