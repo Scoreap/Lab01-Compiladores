@@ -1,0 +1,5 @@
+Bin x 5 + 3;
+hola
+Oct y = 10;
+Hex z @ 2 ;
+rrrr

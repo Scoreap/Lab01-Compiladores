@@ -1,0 +1,5 @@
+oct identificador = 2054 ;
+hex nombreDeVariable = 1234 ;
+bin num = 0110 ;
+
+322 - 2412 ;
